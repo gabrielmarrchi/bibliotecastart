@@ -1,0 +1,6 @@
+body {background-color: rgb(250, 162, 250) ;
+ display: inline-block;
+ justify-content: space-around;}
+header {background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;}
